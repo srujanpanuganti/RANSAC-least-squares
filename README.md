@@ -4,7 +4,7 @@ This project also implements Random Sample Consensus(RANSAC) technique to perfor
 
 
 <p align="center">
-<img src="images/1.png" alt="Line Fitting">
+<img src="images/1.JPG" alt="Line Fitting">
 </p>
 <p align="center">
 <em>Line Fitting after RANSAC</em>

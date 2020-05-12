@@ -16,7 +16,8 @@ python 3.5 minimum
 numpy
 
 ## Data
-The project uses the pickled data data/data1_new, data/data2_new, data/data3_new 
+The project uses the pickled data 
+`data/data1_new, data/data2_new, data/data3_new` 
 
 ## Execution
 Execute below script for Least Squares implementation as follows

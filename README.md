@@ -21,11 +21,11 @@ The project uses the pickled data data1_new, data2_new, data3_new
 ## Execution
 Execute below script for Least Squares implementation as follows
 
-`python3 HW1_all_data.py`
+`python3 src/HW1_all_data.py`
 
 Execute below script for RANSAC implementation as follows
 
-`python3 HW1_all_RANSAC.py`
+`python3 src/HW1_all_RANSAC.py`
 
 ## Results
-Results are shown in ENPM673_HW1_Report.pdf
+Results are shown in doc/ENPM673_HW1_Report.pdf

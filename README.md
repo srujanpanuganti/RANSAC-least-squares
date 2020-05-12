@@ -1,6 +1,6 @@
 # Project - Least Squares, Random Sample Consensus based Outlier Rejection
-This project implements the Least Squares Technique using Vertical and Perpendicular distances approach for Line Fitting
-This project also implements Random Sample Consensus(RANSAC) technique to perform outlier rejection
+* This project implements the Least Squares Technique using Vertical and Perpendicular distances approach for Line Fitting
+* This project also implements Random Sample Consensus(RANSAC) technique to perform outlier rejection
 
 
 <p align="center">

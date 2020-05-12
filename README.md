@@ -2,6 +2,15 @@
 This project implements the Least Squares Technique using Vertical and Perpendicular distances approach for Line Fitting
 This project also implements Random Sample Consensus(RANSAC) technique to perform outlier rejection
 
+
+<p align="center">
+<img src="images/1.png" alt="Line Fitting">
+</p>
+<p align="center">
+<em>Line Fitting after RANSAC</em>
+</p>
+
+
 ## Dependencies
 python 3.5 minimum
 numpy
